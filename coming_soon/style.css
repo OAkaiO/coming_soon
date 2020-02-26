@@ -16,7 +16,7 @@ div#content {
     height: 280px;
     margin: 0 auto;
     clear: both;
-    position: relative;
+
     top: -140px;
     position: static;
 }
@@ -27,3 +27,33 @@ h2 {
     font-size: 24px;
     margin-bottom: 20px;
 }
+h2 span {
+    color:
+            #fff;
+    font-size: 16px;
+    line-height: 26px;
+    font-style: italic;
+}
+.main_box {
+    float: left;
+    width: 500px;
+    height: 95px;
+    padding: 25px;
+}
+.logo_box {
+    width: 349px;
+    float: left;
+    border-right: 1px solid
+    #303030;
+    height: 280px;
+    position: relative;
+}
+ul.info li {
+    margin-bottom: 20px;
+    clear: both;
+    float: left;
+}
+li {
+    list-style: none;
+}
+html.cufon-active.cufon-ready.gr__successagency_com
